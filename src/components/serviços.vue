@@ -1,6 +1,6 @@
 <template>
   <div id="first-container">
-    <img src="/img/logo (2).png" alt="logo da empresa" />
+    <img src="/img/logo2.png" alt="logo da empresa" />
 
     <div id="sobre">
       <h1 id="first-title" class="animate__animated animate__backInLeft">

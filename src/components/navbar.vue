@@ -9,7 +9,7 @@
      <router-link class="link" to="/Serviços">Serviços</router-link>
   </nav>
   <div id="botao">
-    <img src="/img/icons8-menu-superior-50.png" alt="botao-menu" @click="menu">
+    <img src="/img/menusuperior.png" alt="botao-menu" @click="menu">
   </div>
   </header>
 </template>

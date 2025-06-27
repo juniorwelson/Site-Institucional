@@ -4,8 +4,8 @@
           
      <div class="redes">
        <div class="titulo"> <h2>Nossas redes</h2></div>
-     <a href=""><img src="/img/icons8-instagram.png"></a>   
-      <a href=""> <img src="/img/icons8-whatsapp-50.png"></a>  
+     <a href=""><img src="/img/iconsinsta.png"></a>   
+      <a href=""> <img src="/img/iconszap.png"></a>  
      </div>
 
 
