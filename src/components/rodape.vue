@@ -15,7 +15,7 @@
          <p ><span>E-mail:</span>plenobanksac@gmail.com.</p>
          </div>
     
-  <img  id="logo" src="/img/logo (2).png" >     
+  <img  id="logo" src="/img/logo2.png" >     
 
 </div>
 
